@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kwoitd
 - 👀 I’m interested in learning something New!!!
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Back End!
-- 📫 How to reach me somthing 
+- 💞️ I’m looking to collaborate on Back End
 - 😄 Pronouns: Fun when doing together
 - ⚡ Fun fact: No shy I retake
 
